@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.thorarinsson22/smart-post-studio",
+  "name": "io.github.Thorarinsson22/smart-post-studio",
   "title": "Smart Post Studio",
   "description": "Read, draft and schedule social media posts to 8 platforms. No post-now tool by design.",
   "repository": {
